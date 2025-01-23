@@ -16,7 +16,7 @@
     /* Color foreground */
     --c--fg--initial:    #cad3f5; /* Macchiato Text */
     --c--fg--input:      #b8c0e0; /* Macchiato Subtext */
-    --c--fg--primary:    #f5bde6; /* Macchiato Text */
+    --c--fg--primary:    #cad3f5; /* Macchiato Text */
     --c--fg--secondary:  #b8c0e0; /* Macchiato Subtext */
     --c--fg--tertiary:   #a5adcb; /* Macchiato Subtext 0 */
     --c--fg--quaternary: #8087a2; /* Macchiato Subtext 1 */
@@ -2867,4 +2867,10 @@
 
 .main-column strong > span:nth-child(1) {
   color: #eed49f !important;
+}
+
+a {
+  color: var(--c--pink-tint);
+  text-decoration: none;
+  transition: var(--ts--color);
 }
