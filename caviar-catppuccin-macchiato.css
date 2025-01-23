@@ -107,7 +107,7 @@ input,
 select,
 textarea {
   color: white;
-  background-color: #373a42;
+  background-color: #363a4f;
   border: 1px solid #5b5e64;
   -webkit-transition: border-color 0.2s ease, color 0.2s ease, background-color 0.2s ease;
   -moz-transition: border-color 0.2s ease, color 0.2s ease, background-color 0.2s ease;
@@ -1062,7 +1062,7 @@ li.ui-state-hover {
   width: 1001px;
   height: 50px;
   padding: 8px 0;
-  background: #373a42;
+  background: #363a4f;
   margin-bottom: 2px;
   position: relative;
 }
@@ -2645,7 +2645,7 @@ body .contenth {
 }
 body div.contenth textarea {
   color: white;
-  background-color: #373a42;
+  background-color: #363a4f;
   border: 1px solid #5b5e64;
   -webkit-transition: border-color 0.2s ease, color 0.2s ease, background-color 0.2s ease;
   -moz-transition: border-color 0.2s ease, color 0.2s ease, background-color 0.2s ease;
@@ -2966,7 +2966,7 @@ form tr {
   text-shadow: none;
   padding: 4px 8px;
   border: 2px solid #5b5e64;
-  background-color: #373a42;
+  background-color: #363a4f;
   background-image: none;
   border-radius: 0;
   -webkit-border-radius: 0;
@@ -4440,7 +4440,7 @@ div.contenth[style="color: #000;"] {
   margin-top: 10px;
 }
 div.contenth[style="color: #000;"] .lp-disable-search[style="background: #222222; color: #AAAAAA;"] {
-  background: #373a42 !important;
+  background: #363a4f !important;
   color: white !important;
   margin-left: 5px;
   width: 905px;
