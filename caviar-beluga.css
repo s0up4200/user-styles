@@ -2438,7 +2438,6 @@ table.slice {
 }
 table.border {
   background-color: #24273a;
-  max-width: 600px;
   margin: 0 auto;
 }
 
