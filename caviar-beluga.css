@@ -2832,7 +2832,7 @@ body .contenth {
 }
 body div.contenth textarea {
   color: white;
-  background-color: #373a42;
+  background-color: #494d64;
   border: 1px solid #5b5e64;
   -webkit-transition: border-color 0.2s ease, color 0.2s ease,
     background-color 0.2s ease;
@@ -3165,7 +3165,7 @@ form tr {
   text-shadow: none;
   padding: 4px 8px;
   border: 2px solid #5b5e64;
-  background-color: #373a42;
+  background-color: #494d64;
   background-image: none;
   border-radius: 0;
   -webkit-border-radius: 0;
