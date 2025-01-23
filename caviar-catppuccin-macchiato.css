@@ -16,7 +16,7 @@ body {
   width: 100%;
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-size: 14px;
-  color: #e9e9e9;
+  color: #cad3f5;
   background: #24273a;
 }
 
@@ -236,7 +236,7 @@ body pre {
   margin: 7px 0;
   padding: 14px;
   border: 1px dashed #5b5e63;
-  color: #e9e9e9;
+  color: #cad3f5;
   background-color: #272a30;
 }
 
@@ -245,7 +245,7 @@ pre,
   margin: 7px 0;
   padding: 14px;
   border: 1px dashed #5b5e63;
-  color: #e9e9e9;
+  color: #cad3f5;
   background-color: #272a30;
   white-space: pre-wrap;
   font-family: "Roboto Mono", monospace;
@@ -448,7 +448,7 @@ p.min_padding {
 }
 
 .head {
-  color: #e9e9e9;
+  color: #cad3f5;
   background: #494d64;
   font-weight: 700;
   font-size: 12px;
@@ -464,7 +464,7 @@ p.min_padding {
   font-weight: 700;
 }
 .head a {
-  color: #e9e9e9;
+  color: #cad3f5;
   text-decoration: none;
 }
 .head a:hover, .head a:focus, .head a:active {
@@ -534,7 +534,7 @@ td.body {
 }
 
 .colhead {
-  color: #e9e9e9;
+  color: #cad3f5;
   background: #494d64;
   font-weight: 700;
   font-size: 12px;
@@ -545,7 +545,7 @@ td.body {
   font-weight: 700;
 }
 .colhead a {
-  color: #e9e9e9;
+  color: #cad3f5;
   text-decoration: none;
 }
 .colhead a:hover, .colhead a:focus, .colhead a:active {
@@ -558,7 +558,7 @@ td.colhead {
 }
 
 .colhead_dark, tbody .colhead_dark {
-  color: #e9e9e9;
+  color: #cad3f5;
   background: #494d64;
   font-weight: 700;
   font-size: 12px;
@@ -571,7 +571,7 @@ tbody .colhead_dark strong {
   font-weight: 700;
 }
 .colhead_dark a, tbody .colhead_dark a {
-  color: #e9e9e9;
+  color: #cad3f5;
   text-decoration: none;
 }
 .colhead_dark a:hover, .colhead_dark a:focus, .colhead_dark a:active, tbody .colhead_dark a:hover, tbody .colhead_dark a:focus, tbody .colhead_dark a:active {
@@ -1789,7 +1789,7 @@ div.rating-bg {
   border: none !important;
   background: #055363 !important;
   font-size: 0.9em !important;
-  color: #e9e9e9 !important;
+  color: #cad3f5 !important;
   padding: 0 !important;
 }
 .ui-widget-content a {
@@ -1966,7 +1966,7 @@ body#reviews img[style="float: left; padding-right: 10px; padding-bottom: 10px;"
   padding-bottom: 0 !important;
 }
 body#reviews thead tr {
-  color: #e9e9e9;
+  color: #cad3f5;
   background: #494d64;
   font-weight: 700;
   font-size: 12px;
@@ -1977,7 +1977,7 @@ body#reviews thead tr strong {
   font-weight: 700;
 }
 body#reviews thead tr a {
-  color: #e9e9e9;
+  color: #cad3f5;
   text-decoration: none;
 }
 body#reviews thead tr a:hover, body#reviews thead tr a:focus, body#reviews thead tr a:active {
@@ -2100,7 +2100,7 @@ div.user_details {
 
 .forum_group_header {
   background-color: #24273a;
-  color: #e9e9e9;
+  color: #cad3f5;
   font-weight: 900;
   margin-top: 2px;
 }
@@ -2157,7 +2157,7 @@ body#forums .thin > h2:last-child > .box.pad.center:only-child[style="padding:20
 }
 
 .jquery-msgbox-wrapper.jquery-msgbox-info {
-  color: #e9e9e9 !important;
+  color: #cad3f5 !important;
   min-height: 0 !important;
   background: none !important;
   padding: 20px 20px 0 !important;
@@ -2165,7 +2165,7 @@ body#forums .thin > h2:last-child > .box.pad.center:only-child[style="padding:20
 
 /* User */
 body ul.navigation {
-  color: #e9e9e9;
+  color: #cad3f5;
   background: #494d64;
   list-style: none;
   font-weight: 400;
@@ -2181,25 +2181,25 @@ body ul.navigation li.colhead {
 }
 body ul.navigation a {
   padding: 10px 20px;
-  color: #e9e9e9;
+  color: #cad3f5;
   -webkit-transition: color 0.2s ease, background-color 0.2s ease;
   -moz-transition: color 0.2s ease, background-color 0.2s ease;
   -o-transition: color 0.2s ease, background-color 0.2s ease;
   transition: color 0.2s ease, background-color 0.2s ease;
 }
 body ul.navigation a:hover, body ul.navigation a:focus {
-  color: #e9e9e9;
+  color: #cad3f5;
   background-color: #426b76;
   text-decoration: none;
 }
 body ul.navigation a:active {
-  color: #e9e9e9;
+  color: #cad3f5;
   background-color: #2f7e8c;
   text-decoration: none;
   outline: 0;
 }
 body ul.navigation a.selected {
-  color: #e9e9e9;
+  color: #cad3f5;
   background-color: #2f7e8c;
 }
 body ul.navigation .colhead {
@@ -2515,7 +2515,7 @@ body#bonus .thin table[style="width:100%"] td:last-of-type {
 .ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix .ui-dialog-titlebar-close .ui-icon-closethick::before {
   content: "X";
   display: block;
-  color: #e9e9e9;
+  color: #cad3f5;
 }
 
 .ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-draggable.ui-resizable {
@@ -2595,7 +2595,7 @@ div.linkbox * {
   font-weight: 400;
 }
 div.linkbox > strong {
-  color: #e9e9e9;
+  color: #cad3f5;
 }
 div.linkbox > a {
   color: #85878f;
@@ -3175,7 +3175,7 @@ body#actorshowcase .thin > table tr {
   border-bottom: none;
 }
 body#actorshowcase .thin > table tr:first-child {
-  color: #e9e9e9;
+  color: #cad3f5;
   background: #494d64;
   font-weight: 700;
   font-size: 12px;
@@ -3186,7 +3186,7 @@ body#actorshowcase .thin > table tr:first-child strong {
   font-weight: 700;
 }
 body#actorshowcase .thin > table tr:first-child a {
-  color: #e9e9e9;
+  color: #cad3f5;
   text-decoration: none;
 }
 body#actorshowcase .thin > table tr:first-child a:hover, body#actorshowcase .thin > table tr:first-child a:focus, body#actorshowcase .thin > table tr:first-child a:active {
@@ -3236,7 +3236,7 @@ body#actor .sidebar > .box > table {
 }
 body#actor .sidebar > .box > table tr:first-child {
   background-color: #494d64;
-  color: #e9e9e9;
+  color: #cad3f5;
 }
 body#actor .sidebar > .box > table tr:nth-child(n+2) {
   font-size: 0.8em;
@@ -3318,7 +3318,7 @@ body#stats .legend tr {
   border-bottom: none;
 }
 body#stats .tickLabel {
-  color: #e9e9e9;
+  color: #cad3f5;
 }
 body#stats #tooltip {
   color: white;
@@ -4434,7 +4434,7 @@ div.pad.box[style="width: 100%"] p[style="font-size: 12pt"] {
 }
 
 div.contenth[style="color: #000;"] {
-  color: #e9e9e9 !important;
+  color: #cad3f5 !important;
   padding-left: 20px;
   margin-top: 10px;
 }
@@ -4452,7 +4452,7 @@ div[style="margin-top:5px; padding:5px; border: 1px solid #333;"] {
   margin: 7px 0 !important;
   padding: 14px !important;
   border: 1px dashed #5b5e63 !important;
-  color: #e9e9e9;
+  color: #cad3f5;
   background-color: #272a30;
 }
 
