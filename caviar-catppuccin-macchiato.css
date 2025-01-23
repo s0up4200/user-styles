@@ -449,7 +449,7 @@ p.min_padding {
 
 .head {
   color: #e9e9e9;
-  background: #55585f;
+  background: #494d64;
   font-weight: 700;
   font-size: 12px;
   border-bottom: none;
@@ -535,7 +535,7 @@ td.body {
 
 .colhead {
   color: #e9e9e9;
-  background: #55585f;
+  background: #494d64;
   font-weight: 700;
   font-size: 12px;
   border-bottom: none;
@@ -559,7 +559,7 @@ td.colhead {
 
 .colhead_dark, tbody .colhead_dark {
   color: #e9e9e9;
-  background: #55585f;
+  background: #494d64;
   font-weight: 700;
   font-size: 12px;
   border-bottom: none;
@@ -1075,16 +1075,16 @@ li.ui-state-hover {
   border: 1px solid #4f545f;
   padding: 7px 11px 7px 8px;
   color: #bdbec0;
-  background-color: #1e2030;
+  background-color: #494d64;
 }
 #searchbars input:hover {
   border: 1px solid #5a5f6b;
-  background-color: #33363e;
+  background-color: #363a4f;
   color: #bdbec0;
 }
 #searchbars input:focus {
   border: 1px solid #7a8090;
-  background-color: #34373f;
+  background-color: #363a4f;
   color: #bdbec0;
 }
 #searchbars ul {
@@ -1551,7 +1551,7 @@ input[value="Make Default"] {
   color: #37a9a4;
 }
 .torrent_table tr.group_torrent.first {
-  border-top: 2px double #55585f;
+  border-top: 2px double #494d64;
 }
 #torrents .main_column .torrent_table td {
   padding: 5px 10px;
@@ -1967,7 +1967,7 @@ body#reviews img[style="float: left; padding-right: 10px; padding-bottom: 10px;"
 }
 body#reviews thead tr {
   color: #e9e9e9;
-  background: #55585f;
+  background: #494d64;
   font-weight: 700;
   font-size: 12px;
   border-bottom: none;
@@ -2166,7 +2166,7 @@ body#forums .thin > h2:last-child > .box.pad.center:only-child[style="padding:20
 /* User */
 body ul.navigation {
   color: #e9e9e9;
-  background: #55585f;
+  background: #494d64;
   list-style: none;
   font-weight: 400;
   padding: 10px;
@@ -2497,7 +2497,7 @@ body#bonus .thin table[style="width:100%"] td:last-of-type {
 }
 
 .ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix {
-  background-color: #55585f !important;
+  background-color: #494d64 !important;
 }
 .ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix .ui-dialog-titlebar-close {
   padding: 2px 0 0 !important;
@@ -2508,7 +2508,7 @@ body#bonus .thin table[style="width:100%"] td:last-of-type {
 .ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix .ui-dialog-titlebar-close .ui-icon-closethick {
   background-image: none !important;
   text-indent: 0 !important;
-  color: #55585f;
+  color: #494d64;
   font-weight: 900;
   text-align: center;
 }
@@ -3176,7 +3176,7 @@ body#actorshowcase .thin > table tr {
 }
 body#actorshowcase .thin > table tr:first-child {
   color: #e9e9e9;
-  background: #55585f;
+  background: #494d64;
   font-weight: 700;
   font-size: 12px;
   border-bottom: none;
@@ -3232,10 +3232,10 @@ body#actor .sidebar > .box:first-child > .head {
 }
 body#actor .sidebar > .box > table {
   border-collapse: separate;
-  background-color: #55585f;
+  background-color: #494d64;
 }
 body#actor .sidebar > .box > table tr:first-child {
-  background-color: #55585f;
+  background-color: #494d64;
   color: #e9e9e9;
 }
 body#actor .sidebar > .box > table tr:nth-child(n+2) {
