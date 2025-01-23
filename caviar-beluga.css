@@ -1500,7 +1500,7 @@ input[value="Make Default"] {
 .filter_torrents .box.pad .cat_list a:hover,
 .filter_torrents .box.pad .cat_list a:focus,
 .filter_torrents .box.pad .cat_list a:active {
-  color: #92d4a0;
+  color: #a6da95;
 }
 .filter_torrents
   .box.pad
@@ -1581,7 +1581,7 @@ input[value="Make Default"] {
 .torrent_table tr.group_torrent.discog td > a:hover,
 .torrent_table tr.group_torrent.discog td > a:focus,
 .torrent_table tr.group_torrent.discog td > a:active {
-  color: #92d4a0;
+  color: #a6da95;
 }
 .torrent_table tr.group_torrent .group.discog {
   padding: 5px 10px;
@@ -1614,7 +1614,7 @@ input[value="Make Default"] {
   color: #37a9a4;
 }
 .torrent_table tr.group_torrent.first {
-  border-top: 2px double #55585f;
+  border-top: 2px double #494d64;
 }
 #torrents .main_column .torrent_table td {
   padding: 5px 10px;
@@ -1663,7 +1663,7 @@ input[value="Make Default"] {
 }
 
 a[title="View Series"] {
-  color: #92d4a0;
+  color: #a6da95;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -1878,7 +1878,7 @@ div.rating-bg {
 .ui-widget-content a:hover,
 .ui-widget-content a:focus,
 .ui-widget-content a:active {
-  color: #92d4a0;
+  color: #a6da95;
 }
 
 .ui-widget-header {
@@ -2053,7 +2053,7 @@ body#reviews
 }
 body#reviews thead tr {
   color: #e9e9e9;
-  background: #55585f;
+  background: #494d64;
   font-weight: 700;
   font-size: 12px;
   border-bottom: none;
@@ -2266,7 +2266,7 @@ body#forums
 /* User */
 body ul.navigation {
   color: #e9e9e9;
-  background: #55585f;
+  background: #494d64;
   list-style: none;
   font-weight: 400;
   padding: 10px;
@@ -2324,7 +2324,7 @@ body ul.navigation .colhead {
 .user_profile > h2:first-child a:hover,
 .user_profile > h2:first-child a:focus,
 .user_profile > h2:first-child a:active {
-  color: #92d4a0;
+  color: #a6da95;
 }
 
 #slider .linkbox {
@@ -2361,7 +2361,7 @@ body ul.navigation .colhead {
 #slider > h2:first-child a:hover,
 #slider > h2:first-child a:focus,
 #slider > h2:first-child a:active {
-  color: #92d4a0;
+  color: #a6da95;
 }
 
 .scroll .panel {
@@ -2579,7 +2579,7 @@ body#bonus .thin > .box > .pad:first-child > a {
 body#bonus .thin > .box > .pad:first-child > a:hover,
 body#bonus .thin > .box > .pad:first-child > a:focus,
 body#bonus .thin > .box > .pad:first-child > a:active {
-  color: #92d4a0;
+  color: #a6da95;
 }
 body#bonus .thin > .box.pad:nth-of-type(2) {
   padding: 0;
@@ -2604,7 +2604,7 @@ body#bonus .thin table[style="width:100%"] td:last-of-type {
 }
 
 .ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix {
-  background-color: #55585f !important;
+  background-color: #494d64 !important;
 }
 .ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix
   .ui-dialog-titlebar-close {
@@ -2621,7 +2621,7 @@ body#bonus .thin table[style="width:100%"] td:last-of-type {
   .ui-icon-closethick {
   background-image: none !important;
   text-indent: 0 !important;
-  color: #55585f;
+  color: #494d64;
   font-weight: 900;
   text-align: center;
 }
@@ -2723,7 +2723,7 @@ div.linkbox > a {
 div.linkbox > a:hover,
 div.linkbox > a:focus,
 div.linkbox > a:active {
-  color: #92d4a0;
+  color: #a6da95;
 }
 
 .welcome {
@@ -2801,7 +2801,7 @@ body div.contenth textarea:focus {
 #reseed_box #swapreseed:hover,
 #reseed_box #swapreseed:focus,
 #reseed_box #swapreseed:active {
-  color: #92d4a0;
+  color: #a6da95;
 }
 #reseed_box .head {
   margin-bottom: 2px;
@@ -2824,7 +2824,7 @@ body div.contenth textarea:focus {
 .tags a:hover,
 .tags a:focus,
 .tags a:active {
-  color: #92d4a0;
+  color: #a6da95;
 }
 
 .box.pad.center {
@@ -3264,7 +3264,7 @@ body#recommend #info_dialog a {
 body#recommend #info_dialog a:hover,
 body#recommend #info_dialog a:focus,
 body#recommend #info_dialog a:active {
-  color: #92d4a0 !important;
+  color: #a6da95 !important;
 }
 body#recommend > .ui-widget-content {
   box-shadow: 0px 0px 20px 2px rgba(0, 0, 0, 0.25);
@@ -3314,7 +3314,7 @@ body#actorshowcase .thin > table tr {
 }
 body#actorshowcase .thin > table tr:first-child {
   color: #e9e9e9;
-  background: #55585f;
+  background: #494d64;
   font-weight: 700;
   font-size: 12px;
   border-bottom: none;
@@ -3372,10 +3372,10 @@ body#actor .sidebar > .box:first-child > .head {
 }
 body#actor .sidebar > .box > table {
   border-collapse: separate;
-  background-color: #55585f;
+  background-color: #494d64;
 }
 body#actor .sidebar > .box > table tr:first-child {
-  background-color: #55585f;
+  background-color: #494d64;
   color: #e9e9e9;
 }
 body#actor .sidebar > .box > table tr:nth-child(n + 2) {
@@ -4369,7 +4369,7 @@ a > span[class^="permission_"]:active {
 .tor_highlight_seed:hover,
 .tor_highlight_seed:focus,
 .tor_highlight_seed:active {
-  color: #92d4a0 !important;
+  color: #a6da95 !important;
 }
 .discog .tor_highlight_seed {
   color: #93d4a2 !important;
@@ -4381,7 +4381,7 @@ a > span[class^="permission_"]:active {
 .discog .tor_highlight_seed:hover,
 .discog .tor_highlight_seed:focus,
 .discog .tor_highlight_seed:active {
-  color: #92d4a0 !important;
+  color: #a6da95 !important;
 }
 
 .tor_highlight_leech {
@@ -4394,7 +4394,7 @@ a > span[class^="permission_"]:active {
 .tor_highlight_leech:hover,
 .tor_highlight_leech:focus,
 .tor_highlight_leech:active {
-  color: #92d4a0 !important;
+  color: #a6da95 !important;
 }
 .discog .tor_highlight_leech {
   color: #fbde6e !important;
@@ -4406,7 +4406,7 @@ a > span[class^="permission_"]:active {
 .discog .tor_highlight_leech:hover,
 .discog .tor_highlight_leech:focus,
 .discog .tor_highlight_leech:active {
-  color: #92d4a0 !important;
+  color: #a6da95 !important;
 }
 
 .tor_highlight_snatch {
@@ -4419,7 +4419,7 @@ a > span[class^="permission_"]:active {
 .tor_highlight_snatch:hover,
 .tor_highlight_snatch:focus,
 .tor_highlight_snatch:active {
-  color: #92d4a0 !important;
+  color: #a6da95 !important;
 }
 .discog .tor_highlight_snatch {
   color: #d71a41 !important;
@@ -4431,7 +4431,7 @@ a > span[class^="permission_"]:active {
 .discog .tor_highlight_snatch:hover,
 .discog .tor_highlight_snatch:focus,
 .discog .tor_highlight_snatch:active {
-  color: #92d4a0 !important;
+  color: #a6da95 !important;
 }
 
 /* Containers */
@@ -4513,7 +4513,7 @@ a:active .None,
 a:active .P2P,
 a:active .Scene,
 a:active .User {
-  color: #92d4a0 !important;
+  color: #a6da95 !important;
 }
 .discog a:hover .TS,
 .discog a:hover .MP4,
@@ -4548,7 +4548,7 @@ a:active .User {
 .discog a:active .P2P,
 .discog a:active .Scene,
 .discog a:active .User {
-  color: #92d4a0 !important;
+  color: #a6da95 !important;
 }
 
 /* Shame - This CSS is bad, and you should feel bad */
@@ -4699,7 +4699,7 @@ body#bonus #general + .box.pad[style="padding:10px 10px 10px 20px;"] a {
 body#bonus #general + .box.pad[style="padding:10px 10px 10px 20px;"] a:hover,
 body#bonus #general + .box.pad[style="padding:10px 10px 10px 20px;"] a:focus,
 body#bonus #general + .box.pad[style="padding:10px 10px 10px 20px;"] a:active {
-  color: #92d4a0;
+  color: #a6da95;
 }
 
 body#torrents table.box[style="font-size: 7pt; margin-top: 5px; width: 170px"] {
