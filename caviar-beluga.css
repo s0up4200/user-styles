@@ -2436,6 +2436,22 @@ td.label {
 table.slice {
   margin-top: -1px;
 }
+table.border {
+  background-color: #1e2030;
+}
+
+table.border td {
+  background-color: #1e2030;
+  padding: 6px;
+}
+
+table.border td.label {
+  background-color: #363a4f;
+}
+
+table.border tr:hover td:not(.label) {
+  background-color: #24273a;
+}
 
 .error_message {
   color: #cad3f5;
