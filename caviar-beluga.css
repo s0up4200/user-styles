@@ -4840,3 +4840,9 @@ body#user
 body#snatchlist #SnatchData > table:nth-child(3) td:only-child {
   padding: 14px;
 }
+
+.box {
+  padding: 10px;
+  font-size: 12px;
+  background-color: #363a4f;
+}
