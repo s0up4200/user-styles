@@ -4507,44 +4507,44 @@ a > span[class^="permission_"]:active {
 
 /* Containers */
 .TS {
-  color: #be005d !important;
+  color: #c6a0f6 !important;
 }
 
 .MP4 {
-  color: #f7995b !important;
+  color: #f5a97f !important;
 }
 
 .MKV {
-  color: #d71a41 !important;
+  color: #ed8796 !important;
 }
 
 .AVI {
-  color: #fbd567 !important;
+  color: #eed49f !important;
 }
 
 .M4V {
-  color: #ff6e00 !important;
+  color: #ee99a0 !important;
 }
 
 .MPEG {
-  color: #ff0050 !important;
+  color: #f5bde6 !important;
 }
 
 /* Sources */
 .Internal {
-  color: #cdffae !important;
+  color: #a6da95 !important;
 }
 
 .None {
-  color: #cf0e4a !important;
+  color: #ed8796 !important;
 }
 
 .P2P {
-  color: #35a3ac !important;
+  color: #8bd5ca !important;
 }
 
 .Scene {
-  color: #4be0d5 !important;
+  color: #91d7e3 !important;
 }
 
 .User {
