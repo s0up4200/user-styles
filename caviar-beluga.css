@@ -2453,8 +2453,40 @@ table.border {
 }
 
 table.border td {
-  background-color: #24273a;
-  padding: 12px;
+  padding: 4px 8px;
+}
+
+table.border tr.colhead {
+  background-color: #494d64;
+  color: #cad3f5;
+}
+
+table.border tr.colhead td {
+  padding: 6px 8px;
+}
+
+table.border tr.rowa {
+  background-color: #363a4f;
+}
+
+table.border tr.rowb {
+  background-color: #494d64;
+}
+
+table.border tr:hover:not(.colhead) {
+  background-color: #5b6078;
+}
+
+table.border td.center {
+  text-align: center;
+}
+
+table.border td[style*="text-align:right"] {
+  text-align: right !important;
+}
+
+table.border td[style*="text-align:center"] {
+  text-align: center !important;
 }
 
 table.border td.label {
@@ -2462,21 +2494,17 @@ table.border td.label {
 }
 
 table.border input[type="text"] {
-
+  width: 300px;
 }
 
 table.border select {
+  width: 300px;
   padding: 5px;
 }
 
 table.border input[type="submit"] {
   margin: 10px 0;
   padding: 8px 20px;
-}
-
-table.border td.center {
-  text-align: center;
-  padding: 20px;
 }
 
 .error_message {
