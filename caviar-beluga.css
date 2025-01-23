@@ -985,81 +985,54 @@ ul.potato-menu ul.potato-menu-group a {
   padding: 0 10px !important;
 }
 
+/* Menu colors using Catppuccin Macchiato palette */
 .potato-menu > li.potato-menu-item:nth-of-type(1) a {
-  background: #0d5968;
+  background: #8aadf4; /* blue */
 }
-.potato-menu
-  > li.potato-menu-item:nth-of-type(1)
-  .potato-menu-group
-  .potato-menu-item
-  a:hover {
-  background: #0b4a57;
+.potato-menu > li.potato-menu-item:nth-of-type(1) .potato-menu-group .potato-menu-item a:hover {
+  background: #7dc4e4; /* sapphire */
 }
 
 .potato-menu > li.potato-menu-item:nth-of-type(2) a {
-  background: #20717c;
+  background: #c6a0f6; /* mauve */
 }
-.potato-menu
-  > li.potato-menu-item:nth-of-type(2)
-  .potato-menu-group
-  .potato-menu-item
-  a:hover {
-  background: #1c606a;
+.potato-menu > li.potato-menu-item:nth-of-type(2) .potato-menu-group .potato-menu-item a:hover {
+  background: #b7bdf8; /* lavender */
 }
 
 .potato-menu > li.potato-menu-item:nth-of-type(3) a {
-  background: #1d818e;
+  background: #ed8796; /* red */
 }
-.potato-menu
-  > li.potato-menu-item:nth-of-type(3)
-  .potato-menu-group
-  .potato-menu-item
-  a:hover {
-  background: #1b6873;
+.potato-menu > li.potato-menu-item:nth-of-type(3) .potato-menu-group .potato-menu-item a:hover {
+  background: #ee99a0; /* maroon */
 }
 
 .potato-menu > li.potato-menu-item:nth-of-type(4) a {
-  background: #3eaca7;
+  background: #f5a97f; /* peach */
 }
-.potato-menu
-  > li.potato-menu-item:nth-of-type(4)
-  .potato-menu-group
-  .potato-menu-item
-  a:hover {
-  background: #318f92;
+.potato-menu > li.potato-menu-item:nth-of-type(4) .potato-menu-group .potato-menu-item a:hover {
+  background: #f0c6c6; /* flamingo */
 }
 
 .potato-menu > li.potato-menu-item:nth-of-type(5) a {
-  background: #47bc97;
+  background: #a6da95; /* green */
 }
-.potato-menu
-  > li.potato-menu-item:nth-of-type(5)
-  .potato-menu-group
-  .potato-menu-item
-  a:hover {
-  background: #329f93;
+.potato-menu > li.potato-menu-item:nth-of-type(5) .potato-menu-group .potato-menu-item a:hover {
+  background: #8bd5ca; /* teal */
 }
 
 .potato-menu > li.potato-menu-item:nth-of-type(6) a {
-  background: #74c796;
+  background: #eed49f; /* yellow */
 }
-.potato-menu
-  > li.potato-menu-item:nth-of-type(6)
-  .potato-menu-group
-  .potato-menu-item
-  a:hover {
-  background: #5abaa0;
+.potato-menu > li.potato-menu-item:nth-of-type(6) .potato-menu-group .potato-menu-item a:hover {
+  background: #f5bde6; /* pink */
 }
 
 .potato-menu > li.potato-menu-item:nth-of-type(7) a {
-  background: #91d09f;
+  background: #91d7e3; /* sky */
 }
-.potato-menu
-  > li.potato-menu-item:nth-of-type(7)
-  .potato-menu-group
-  .potato-menu-item
-  a:hover {
-  background: #6cc79b;
+.potato-menu > li.potato-menu-item:nth-of-type(7) .potato-menu-group .potato-menu-item a:hover {
+  background: #7dc4e4; /* sapphire */
 }
 
 #nav_bonus > a {
