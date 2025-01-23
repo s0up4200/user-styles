@@ -160,6 +160,7 @@ input[type="submit"]:focus,
 input[type="reset"]:hover,
 input[type="reset"]:focus {
   background-color: #7dc4e4;
+  border-color: #7dc4e4;
 }
 button:active,
 input[type="button"]:active,
@@ -466,7 +467,7 @@ p.min_padding {
 
 .head {
   color: #cad3f5;
-  background: #55585f;
+  background: #494d64;
   font-weight: 700;
   font-size: 12px;
   border-bottom: none;
@@ -554,7 +555,7 @@ td.body {
 
 .colhead {
   color: #cad3f5;
-  background: #55585f;
+  background: #494d64;
   font-weight: 700;
   font-size: 12px;
   border-bottom: none;
@@ -581,7 +582,7 @@ td.colhead {
 .colhead_dark,
 tbody .colhead_dark {
   color: #cad3f5;
-  background: #55585f;
+  background: #494d64;
   font-weight: 700;
   font-size: 12px;
   border-bottom: none;
