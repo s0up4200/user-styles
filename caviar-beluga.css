@@ -247,7 +247,7 @@ body pre {
   padding: 14px;
   border: 1px dashed #5b6078;
   color: #cad3f5;
-  background-color: #1e2030;
+  background-color: #24273a;
 }
 
 pre,
@@ -256,7 +256,7 @@ pre,
   padding: 14px;
   border: 1px dashed #5b6078;
   color: #cad3f5;
-  background-color: #1e2030;
+  background-color: #24273a;
   white-space: pre-wrap;
   font-family: "Roboto Mono", monospace;
   font-size: 0.9285714286em;
@@ -454,7 +454,7 @@ p.min_padding {
 .box {
   padding: 10px;
   font-size: 12px;
-  background-color: #1e2030;
+  background-color: #24273a;
 }
 
 .pad h3,
@@ -529,8 +529,8 @@ table {
 }
 
 tr {
-  background-color: #1e2030;
-  border-bottom: 2px solid #1e2030;
+  background-color: #24273a;
+  border-bottom: 2px solid #24273a;
 }
 
 td {
@@ -668,7 +668,7 @@ tbody .colhead_dark a:active {
 }
 
 #quickpostform {
-  background-color: #1e2030;
+  background-color: #24273a;
   padding: 0 20px 20px;
 }
 
@@ -2437,11 +2437,11 @@ table.slice {
   margin-top: -1px;
 }
 table.border {
-  background-color: #1e2030;
+  background-color: #24273a;
 }
 
 table.border td {
-  background-color: #1e2030;
+  background-color: #24273a;
 }
 
 table.border td.label {
