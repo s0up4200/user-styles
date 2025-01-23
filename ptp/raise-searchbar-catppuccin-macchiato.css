@@ -3013,3 +3013,7 @@ body#staff .thin > div:nth-of-type(2) h3 {
 .alert-bar br {
   display: none;
 }
+
+[id^="content"] > div > span > span {
+  color: #cad3f5;
+}
