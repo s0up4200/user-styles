@@ -77,6 +77,7 @@
     --c--teal-shade:   #81c8be; /* Macchiato Teal dark */
     --c--blue-tint:    #8aadf4; /* Macchiato Blue */
     --c--blue:         #89b4fa; /* Macchiato Blue */
+    --c--lavender:     #b7bdf8; /* Macchiato Lavender */
     --c--blue-shade:   #7287fd; /* Macchiato Blue dark */
     --c--purple-tint:  #c6a0f6; /* Macchiato Purple */
     --c--purple:       #b7bdf8; /* Macchiato Lavender */
@@ -2870,7 +2871,7 @@
 }
 
 a {
-  color: var(--c--pink-tint);
+  color: var(--c--lavender);
   text-decoration: none;
   transition: var(--ts--color);
 }
