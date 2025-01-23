@@ -4,6 +4,7 @@
   by jimpalompa
 
   Stylesheet url: github.com/jimpalompa/ptp
+  https://jimpalompa.github.io/ptp/marcel/marcel.css
 
 ----------------------------------------------------------------------------- */
 
@@ -2855,4 +2856,8 @@
   }
   
   /* --------------- I think this just might be my masterpiece ---------------- */
+  
+  .bbcode-size-6 > strong:nth-child(1) > span:nth-child(1) {
+    color:#eed49f;
+  }
   
