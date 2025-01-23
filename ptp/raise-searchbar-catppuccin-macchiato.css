@@ -1328,12 +1328,12 @@ img[title="Time"] {
 }
 [class$="__new"]:before {
   content: "NEW";
-  border-color: #ffe426;
+  border-color: #eed49f;
   font-size: 10px;
-  color: #ffe426;
+  color: #eed49f;
 }
 [class$="__new"]:hover:before {
-  background: #ffe426;
+  background: #eed49f;
   color: #1a1a1a;
 }
 [class$="__bookmark"] a {
@@ -1668,12 +1668,12 @@ img[title^="High quality"] {
 }
 [id^="submanager"] a:first-child:before {
   content: "request sub";
-  border-color: #ffe426;
+  border-color: #eed49f;
   font-size: 10px;
-  color: #ffe426;
+  color: #eed49f;
 }
 [id^="submanager"] a:first-child:hover:before {
-  background: #ffe426;
+  background: #eed49f;
   color: #1a1a1a;
 }
 [id^="submanager"] a:nth-child(2) {
@@ -1700,7 +1700,7 @@ img[title^="High quality"] {
   color: #f7706f;
 }
 .torrent-info-link--user-seeding {
-  color: #ffe426;
+  color: #eed49f;
 }
 .torrent-info-link--user-downloaded {
   color: #b3e725;
@@ -1723,7 +1723,7 @@ img[title^="High quality"] {
   color: #a6da95;
 }
 .torrent-info__download-modifier--half {
-  color: #ffe426;
+  color: #eed49f;
 }
 .torrent_info_row {
   background: rgba(0, 0, 0, 0.12);
@@ -2226,11 +2226,11 @@ body#artist [id^="role_"] > br {
   margin-left: 8px;
 }
 #jump_to_container a:first-of-type {
-  border-color: #ffe426;
-  color: #ffe426;
+  border-color: #eed49f;
+  color: #eed49f;
 }
 #jump_to_container a:first-of-type:hover {
-  background: #ffe426;
+  background: #eed49f;
   color: #1a1a1a;
 }
 #jump_to_container a:nth-of-type(2) {
@@ -2724,7 +2724,7 @@ body#staff .thin > div:nth-of-type(2) h3 {
   display: block;
 }
 #nav_bonus:hover:before {
-  color: #ffe426;
+  color: #eed49f;
 }
 #nav_donate a:before {
   content: "";
