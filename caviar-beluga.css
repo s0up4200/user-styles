@@ -1108,7 +1108,7 @@ li.ui-state-hover {
   width: 1001px;
   height: 50px;
   padding: 8px 0;
-  background: #373a42;
+  background: #363a4f;
   margin-bottom: 2px;
   position: relative;
 }
@@ -1119,20 +1119,20 @@ li.ui-state-hover {
   width: 0;
   height: 34px;
   margin: 0;
-  border: 1px solid #4f545f;
+  border: 1px solid #494d64;
   padding: 7px 11px 7px 8px;
-  color: #bdbec0;
-  background-color: #33363d;
+  color: #cad3f5;
+  background-color: #363a4f;
 }
 #searchbars input:hover {
-  border: 1px solid #5a5f6b;
-  background-color: #33363e;
-  color: #bdbec0;
+  border: 1px solid #5b6078;
+  background-color: #494d64;
+  color: #cad3f5;
 }
 #searchbars input:focus {
-  border: 1px solid #7a8090;
-  background-color: #34373f;
-  color: #bdbec0;
+  border: 1px solid #5b6078;
+  background-color: #494d64;
+  color: #cad3f5;
 }
 #searchbars ul {
   margin: 0;
@@ -2295,13 +2295,13 @@ body ul.navigation a:focus {
 }
 body ul.navigation a:active {
   color: #e9e9e9;
-  background-color: #2f7e8c;
+  background-color: #7dc4e4;
   text-decoration: none;
   outline: 0;
 }
 body ul.navigation a.selected {
   color: #e9e9e9;
-  background-color: #2f7e8c;
+  background-color: #7dc4e4;
 }
 body ul.navigation .colhead {
   font-weight: 400;
@@ -2614,7 +2614,7 @@ body#bonus .thin table[style="width:100%"] td:last-of-type {
   .ui-dialog-titlebar-close.ui-state-hover,
 .ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix
   .ui-dialog-titlebar-close.ui-state-focus {
-  background-color: #2f7e8c !important;
+  background-color: #7dc4e4 !important;
 }
 .ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix
   .ui-dialog-titlebar-close
@@ -4122,168 +4122,168 @@ body .small-star a:hover {
 /* User classes */
 body a.permission_41,
 body .permission_41 {
-  color: #999999;
+  color: #6e738d;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_2,
 body .permission_2 {
-  color: #cccccc;
+  color: #8087a2;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_3,
 body .permission_3 {
-  color: white;
+  color: #939ab7;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_4,
 body .permission_4 {
-  color: #4aac85;
+  color: #a6da95;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_5,
 body .permission_5 {
-  color: #64bd8d;
+  color: #8bd5ca;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_24,
 body .permission_24 {
-  color: #7ecd95;
+  color: #7dc4e4;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_7,
 body .permission_7 {
-  color: #99de9e;
+  color: #8aadf4;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_33,
 body .permission_33 {
-  color: #b3eea6;
+  color: #b7bdf8;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_43,
 body .permission_43 {
-  color: #cdffae;
+  color: #c6a0f6;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_28,
 body .permission_28 {
-  color: #fbde6e;
+  color: #eed49f;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_35,
 body .permission_35 {
-  color: #fad06a;
+  color: #f5a97f;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_37,
 body .permission_37 {
-  color: #f9c266;
+  color: #f0c6c6;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_6,
 body .permission_6 {
-  color: #f9b563;
+  color: #f4dbd6;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_9,
 body .permission_9 {
-  color: #f8a75f;
+  color: #f5bde6;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_8,
 body .permission_8 {
-  color: #f7995b;
+  color: #f5a97f;
   font-weight: inherit;
   font-style: normal;
 }
 
 body a.permission_32,
 body .permission_32 {
-  color: #d71a41;
+  color: #ed8796;
   font-weight: inherit;
   font-style: italic;
 }
 
 body a.permission_29,
 body .permission_29 {
-  color: #ce0d4c;
+  color: #ee99a0;
   font-weight: inherit;
   font-style: italic;
 }
 
 body a.permission_34,
 body .permission_34 {
-  color: #c40056;
+  color: #f0c6c6;
   font-weight: inherit;
   font-style: italic;
 }
 
 body a.permission_11,
 body .permission_11 {
-  color: #4be0d5;
+  color: #91d7e3;
   font-weight: inherit;
   font-style: italic;
 }
 
 body a.permission_14,
 body .permission_14 {
-  color: #44cdca;
+  color: #7dc4e4;
   font-weight: inherit;
   font-style: italic;
 }
 
 body a.permission_36,
 body .permission_36 {
-  color: #3dbabf;
+  color: #8aadf4;
   font-weight: inherit;
   font-style: italic;
 }
 
 body a.permission_1,
 body .permission_1 {
-  color: #37a8b3;
+  color: #b7bdf8;
   font-weight: inherit;
   font-style: italic;
 }
 
 body a.permission_42,
 body .permission_42 {
-  color: #3095a8;
+  color: #c6a0f6;
   font-weight: inherit;
   font-style: italic;
 }
 
 body a.permission_15,
 body .permission_15 {
-  color: #29829d;
+  color: #f5bde6;
   font-weight: inherit;
   font-style: italic;
 }
