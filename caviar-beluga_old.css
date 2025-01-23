@@ -2474,7 +2474,7 @@ table.border tr.rowb {
 }
 
 table.border tr:hover:not(.colhead) {
-  background-color: #5b6078;
+  /* background-color: #5b6078; */
 }
 
 table.border td.center {
