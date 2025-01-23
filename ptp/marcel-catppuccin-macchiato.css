@@ -2865,6 +2865,6 @@
 .main-column > div:nth-child(1) > div:nth-child(1) > strong:nth-child(8) > span:nth-child(1) {
 }
 
-.main-column > div:nth-child(1) > div:nth-child(1) > strong:nth-child(8) > span:nth-child(1) {
-  color:#eed49f !important;
+.main-column strong > span:nth-child(1) {
+  color: #eed49f !important;
 }
