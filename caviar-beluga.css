@@ -1056,13 +1056,13 @@ ul.potato-menu ul.potato-menu-group a {
   position: relative;
   background: linear-gradient(
     to right,
-    #0d5968,
-    #20717c,
-    #1d818e,
-    #3eaca7,
-    #47bc97,
-    #74c796,
-    #91d09f
+    #8aadf4,
+    #7dc4e4,
+    #91d7e3,
+    #8bd5ca,
+    #a6da95,
+    #b7bdf8,
+    #c6a0f6
   );
   text-align: center;
   color: white;
@@ -1204,7 +1204,7 @@ li.ui-state-hover {
 }
 
 .newmem {
-  background-color: #222222;
+  background-color: #24273a;
   text-align: center;
   font-size: 0.95em;
   margin: 0 auto;
@@ -1220,13 +1220,13 @@ li.ui-state-hover {
 
 .ui-autocomplete.ui-menu .ui-menu-item a {
   padding: 5px 9px !important;
-  background: #085565 !important;
-  color: white !important;
+  background: #363a4f !important;
+  color: #cad3f5 !important;
   font-weight: 400;
   font-size: 11px;
 }
 .ui-autocomplete-loading {
-  background-color: #34373f !important;
+  background-color: #363a4f !important;
   background-image: none !important;
 }
 
@@ -1236,13 +1236,13 @@ li.ui-state-hover {
 .ui-widget-content .ui-state-hover,
 .ui-widget-header .ui-state-hover,
 .ui-state-hover {
-  background: #085565 !important;
-  color: white !important;
+  background: #494d64 !important;
+  color: #cad3f5 !important;
   border: none !important;
 }
 
 #ui-active-menuitem {
-  background: #0b4a57 !important;
+  background: #494d64 !important;
   margin: 0 !important;
 }
 
@@ -2438,23 +2438,23 @@ table.slice {
 }
 
 .error_message {
-  color: white;
-  background-color: #af2525;
+  color: #cad3f5;
+  background-color: #ed8796;
   border: none;
   text-align: center;
   padding: 3px 0;
 }
 
 .save_message {
-  color: white;
-  background-color: #93d4a2;
+  color: #cad3f5;
+  background-color: #a6da95;
   margin-top: 2px;
   text-align: center;
   padding: 10px;
 }
 
 .elem_error {
-  border: 3px solid #b00d0d;
+  border: 3px solid #ed8796;
 }
 
 body#user .bbcode-btntoolbar,
@@ -2558,7 +2558,7 @@ form[action="inbox.php"] textarea[name="body"] {
 }
 
 tr.unreadpm {
-  background-color: #651809;
+  background-color: #ee99a0;
 }
 
 #messageform {
@@ -2750,8 +2750,8 @@ body .b3bh,
 body .b3h,
 body .b4bh,
 body .b4h {
-  border-left: 0 solid #aaaaaa;
-  border-right: 0 solid #aaaaaa;
+  border-left: 0 solid #494d64;
+  border-right: 0 solid #494d64;
   height: 2px;
   margin: 0 1px;
 }
@@ -4303,59 +4303,59 @@ a > span[class^="permission_"]:active {
 
 /* Ratio colours */
 .r00 {
-  color: #be015d;
+  color: #ed8796;
 }
 
 .r01 {
-  color: #c51a5f;
+  color: #ee99a0;
 }
 
 .r02 {
-  color: #cc3261;
+  color: #f0c6c6;
 }
 
 .r03 {
-  color: #d24b63;
+  color: #f5a97f;
 }
 
 .r04 {
-  color: #d96365;
+  color: #f5bde6;
 }
 
 .r05 {
-  color: #e07c66;
+  color: #f4dbd6;
 }
 
 .r06 {
-  color: #e79468;
+  color: #eed49f;
 }
 
 .r07 {
-  color: #edad6a;
+  color: #c6a0f6;
 }
 
 .r08 {
-  color: #f4c56c;
+  color: #b7bdf8;
 }
 
 .r09 {
-  color: #fbde6e;
+  color: #8aadf4;
 }
 
 .r10 {
-  color: #4aac85;
+  color: #7dc4e4;
 }
 
 .r20 {
-  color: #6ec593;
+  color: #8bd5ca;
 }
 
 .r50 {
-  color: #92dea1;
+  color: #a6da95;
 }
 
 .r99 {
-  color: #b6f7af;
+  color: #91d7e3;
 }
 
 /* Torrent status */
