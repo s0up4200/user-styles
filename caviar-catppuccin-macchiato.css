@@ -951,7 +951,7 @@ ul.potato-menu ul.potato-menu-group a {
 }
 
 .potato-menu > li.potato-menu-item:nth-of-type(1) a {
-  background: #0d5968;
+  background: #8AADF4;
 }
 .potato-menu > li.potato-menu-item:nth-of-type(1) .potato-menu-group .potato-menu-item a:hover {
   background: #0b4a57;
@@ -1017,7 +1017,7 @@ ul.potato-menu ul.potato-menu-group a {
 
 .alertbar {
   position: relative;
-  background: linear-gradient(to right, #0d5968, #20717c, #1d818e, #3eaca7, #47bc97, #74c796, #91d09f);
+  background: linear-gradient(to right, #8AADF4, #20717c, #1d818e, #3eaca7, #47bc97, #74c796, #91d09f);
   text-align: center;
   color: white;
   font-size: 0.8em;
@@ -4380,7 +4380,7 @@ a:active .User {
   left: -1px;
   bottom: -2px;
   right: -1px;
-  background: linear-gradient(to right, #0d5968, #20717c, #1d818e, #3eaca7, #47bc97, #74c796, #91d09f);
+  background: linear-gradient(to right, #8AADF4, #20717c, #1d818e, #3eaca7, #47bc97, #74c796, #91d09f);
 }
 
 .alertbar[style="border:1px solid #360;background-color:#120;margin-bottom:3px;"] {
