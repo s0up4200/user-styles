@@ -972,7 +972,7 @@ ul.potato-menu ul.potato-menu-group a {
 }
 
 .potato-menu > li.potato-menu-item:nth-of-type(4) a {
-  background: #3eaca7;
+  background: #f5a97f;
 }
 .potato-menu > li.potato-menu-item:nth-of-type(4) .potato-menu-group .potato-menu-item a:hover {
   background: #318f92;
@@ -1017,7 +1017,7 @@ ul.potato-menu ul.potato-menu-group a {
 
 .alertbar {
   position: relative;
-  background: linear-gradient(to right, #8AADF4, #c6a0f6, #ED8796, #3eaca7, #47bc97, #74c796, #91d09f);
+  background: linear-gradient(to right, #8AADF4, #c6a0f6, #ED8796, #f5a97f, #47bc97, #74c796, #91d09f);
   text-align: center;
   color: white;
   font-size: 0.8em;
@@ -4380,7 +4380,7 @@ a:active .User {
   left: -1px;
   bottom: -2px;
   right: -1px;
-  background: linear-gradient(to right, #8AADF4, #c6a0f6, #ED8796, #3eaca7, #47bc97, #74c796, #91d09f);
+  background: linear-gradient(to right, #8AADF4, #c6a0f6, #ED8796, #f5a97f, #47bc97, #74c796, #91d09f);
 }
 
 .alertbar[style="border:1px solid #360;background-color:#120;margin-bottom:3px;"] {
