@@ -1431,7 +1431,7 @@ body#torrents .sidebar form + br {
   display: none;
 }
 body#torrents .main_column .box.pad {
-  background-color: #23252a;
+  background-color: #363a4f;
   padding-top: 10px;
 }
 body#torrents .main_column .box.pad td {
@@ -1439,7 +1439,7 @@ body#torrents .main_column .box.pad td {
 }
 body#torrents .main_column > .torrent_table + .box {
   margin-top: -2px;
-  border-top: 2px solid #23252a;
+  border-top: 2px solid #363a4f;
 }
 body#torrents .main_column > .box.pad[style="padding:20px 10px 10px 10px;"] {
   padding: 0 !important;
@@ -1857,7 +1857,7 @@ div.rating-bg {
 }
 
 .ui-widget-overlay {
-  background: #23252a !important;
+  background: #363a4f !important;
   opacity: 0.5 !important;
 }
 
@@ -2192,7 +2192,7 @@ div.user_details {
 }
 
 .forum_group_header {
-  background-color: #23252a;
+  background-color: #363a4f;
   color: #e9e9e9;
   font-weight: 900;
   margin-top: 2px;
@@ -2211,7 +2211,7 @@ body#forums .box {
 }
 body#forums .box.pad {
   padding: 0;
-  background-color: #23252a;
+  background-color: #363a4f;
 }
 body#forums .head {
   width: 1001px;
@@ -2328,27 +2328,27 @@ body ul.navigation .colhead {
 }
 
 #slider .linkbox {
-  background: #23252a;
+  background: #363a4f;
 }
 #slider .linkbox:empty {
   padding: 0;
 }
 #slider .linkbox + h3 {
   padding: 5px;
-  border-top: 2px solid #23252a;
+  border-top: 2px solid #363a4f;
 }
 #slider .pad[style="padding:20px 10px 10px 10px;"] {
   padding: 0 !important;
 }
 #slider .panel .colhead,
 #slider .panel .colhead_dark {
-  border-top: 2px solid #23252a;
+  border-top: 2px solid #363a4f;
 }
 #slider .box.usermenu {
   margin-bottom: 0;
 }
 #slider .box.forum_post.vertical_margin {
-  border-top: 2px solid #23252a;
+  border-top: 2px solid #363a4f;
   padding: 0;
 }
 #slider > h2:first-child a {
@@ -2449,27 +2449,19 @@ table.border td {
 
 table.border td.label {
   background-color: #363a4f;
-  width: 200px;
-  text-align: right;
-  padding-right: 20px;
 }
 
 table.border input[type="text"] {
-  width: 300px;
+
 }
 
 table.border select {
-  width: 300px;
   padding: 5px;
 }
 
 table.border input[type="submit"] {
   margin: 10px 0;
   padding: 8px 20px;
-}
-
-table.border tr:hover td:not(.label) {
-  background-color: #363a4f;
 }
 
 table.border td.center {
@@ -2631,13 +2623,13 @@ body#bonus .thin > .box.pad:nth-of-type(2) tr:last-of-type {
   border-bottom: none;
 }
 body#bonus .thin table[style="width:100%"] tr {
-  border-bottom: 2px solid #23252a;
+  border-bottom: 2px solid #363a4f;
 }
 body#bonus .thin table[style="width:100%"] tr:last-of-type {
   border-bottom: none;
 }
 body#bonus .thin table[style="width:100%"] td {
-  border-right: 2px solid #23252a;
+  border-right: 2px solid #363a4f;
 }
 body#bonus .thin table[style="width:100%"] td:last-of-type {
   border-right: none;
@@ -2991,14 +2983,14 @@ a.tab#selected {
 
 #\31 7 {
   margin-bottom: -42px;
-  background-color: #23252a;
+  background-color: #363a4f;
 }
 #\31 7 tr {
-  background-color: #23252a;
-  border-color: #23252a;
+  background-color: #363a4f;
+  border-color: #363a4f;
 }
 #\31 7 > .pad {
-  background-color: #23252a;
+  background-color: #363a4f;
 }
 #\31 7 a {
   color: transparent;
@@ -3207,7 +3199,7 @@ body#tvschedule .thin {
 }
 body#tvschedule .thin center {
   margin-top: 20px;
-  background-color: #23252a;
+  background-color: #363a4f;
 }
 body#tvschedule .thin .pad {
   padding: 0;
@@ -3427,7 +3419,7 @@ body#actor .sidebar > .box > table tr:nth-child(n + 2) td {
   min-width: 100px;
 }
 body#actor .main_column > .torrent_table {
-  border-top: 2px solid #23252a;
+  border-top: 2px solid #363a4f;
 }
 body#actor .main_column > .torrent_table:first-child {
   margin-top: -2px;
@@ -3594,7 +3586,7 @@ body#rules .thin .pad {
   padding: 0 !important;
 }
 body#rules .thin .pad:first-of-type > p:first-child {
-  background-color: #23252a;
+  background-color: #363a4f;
   margin: 0;
   padding: 14px 5px;
 }
@@ -4726,7 +4718,7 @@ div[style="margin-top:5px; padding:5px; border: 1px solid #333;"] {
 
 body#staff .box.pad[style="padding:0px 10px 10px 10px;"] {
   padding: 0 !important;
-  background-color: #23252a;
+  background-color: #363a4f;
 }
 
 body#bonus #general + .box.pad[style="padding:10px 10px 10px 20px;"] a {
