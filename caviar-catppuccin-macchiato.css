@@ -1063,7 +1063,6 @@ li.ui-state-hover {
   height: 50px;
   padding: 8px 0;
   background: #363a4f;
-  margin-bottom: 2px;
   position: relative;
 }
 #searchbars input {
@@ -1076,7 +1075,7 @@ li.ui-state-hover {
   border: 1px solid #4f545f;
   padding: 7px 11px 7px 8px;
   color: #bdbec0;
-  background-color: #33363d;
+  background-color: #1e2030;
 }
 #searchbars input:hover {
   border: 1px solid #5a5f6b;
