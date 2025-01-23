@@ -1576,7 +1576,7 @@ input[value="Make Default"] {
 }
 
 .torrent_table tr.group_torrent:hover {
-  background-color: #5b6078;
+  /* background-color: #5b6078; */
 }
 .torrent_table tr.group_torrent td a span {
   float: left;
