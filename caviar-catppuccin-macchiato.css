@@ -3974,146 +3974,170 @@ body .small-star a:hover {
 }
 
 /* User classes */
-body a.permission_41, body .permission_41 {
-  color: #999999;
+body a.permission_41,
+body .permission_41 {
+  color: #6e738d;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_2, body .permission_2 {
-  color: #cccccc;
+body a.permission_2,
+body .permission_2 {
+  color: #8087a2;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_3, body .permission_3 {
-  color: white;
+body a.permission_3,
+body .permission_3 {
+  color: #939ab7;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_4, body .permission_4 {
-  color: #4aac85;
+body a.permission_4,
+body .permission_4 {
+  color: #a6da95;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_5, body .permission_5 {
-  color: #64bd8d;
+body a.permission_5,
+body .permission_5 {
+  color: #8bd5ca;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_24, body .permission_24 {
-  color: #7ecd95;
+body a.permission_24,
+body .permission_24 {
+  color: #7dc4e4;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_7, body .permission_7 {
-  color: #99de9e;
+body a.permission_7,
+body .permission_7 {
+  color: #8aadf4;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_33, body .permission_33 {
-  color: #b3eea6;
+body a.permission_33,
+body .permission_33 {
+  color: #b7bdf8;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_43, body .permission_43 {
-  color: #cdffae;
+body a.permission_43,
+body .permission_43 {
+  color: #c6a0f6;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_28, body .permission_28 {
-  color: #fbde6e;
+body a.permission_28,
+body .permission_28 {
+  color: #eed49f;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_35, body .permission_35 {
-  color: #fad06a;
+body a.permission_35,
+body .permission_35 {
+  color: #f5a97f;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_37, body .permission_37 {
-  color: #f9c266;
+body a.permission_37,
+body .permission_37 {
+  color: #f0c6c6;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_6, body .permission_6 {
-  color: #f9b563;
+body a.permission_6,
+body .permission_6 {
+  color: #f4dbd6;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_9, body .permission_9 {
-  color: #f8a75f;
+body a.permission_9,
+body .permission_9 {
+  color: #f5bde6;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_8, body .permission_8 {
-  color: #f7995b;
+body a.permission_8,
+body .permission_8 {
+  color: #f5a97f;
   font-weight: inherit;
   font-style: normal;
 }
 
-body a.permission_32, body .permission_32 {
-  color: #d71a41;
+body a.permission_32,
+body .permission_32 {
+  color: #ed8796;
   font-weight: inherit;
   font-style: italic;
 }
 
-body a.permission_29, body .permission_29 {
-  color: #ce0d4c;
+body a.permission_29,
+body .permission_29 {
+  color: #ee99a0;
   font-weight: inherit;
   font-style: italic;
 }
 
-body a.permission_34, body .permission_34 {
-  color: #c40056;
+body a.permission_34,
+body .permission_34 {
+  color: #f0c6c6;
   font-weight: inherit;
   font-style: italic;
 }
 
-body a.permission_11, body .permission_11 {
-  color: #4be0d5;
+body a.permission_11,
+body .permission_11 {
+  color: #91d7e3;
   font-weight: inherit;
   font-style: italic;
 }
 
-body a.permission_14, body .permission_14 {
-  color: #44cdca;
+body a.permission_14,
+body .permission_14 {
+  color: #7dc4e4;
   font-weight: inherit;
   font-style: italic;
 }
 
-body a.permission_36, body .permission_36 {
-  color: #3dbabf;
+body a.permission_36,
+body .permission_36 {
+  color: #8aadf4;
   font-weight: inherit;
   font-style: italic;
 }
 
-body a.permission_1, body .permission_1 {
-  color: #37a8b3;
+body a.permission_1,
+body .permission_1 {
+  color: #b7bdf8;
   font-weight: inherit;
   font-style: italic;
 }
 
-body a.permission_42, body .permission_42 {
-  color: #3095a8;
+body a.permission_42,
+body .permission_42 {
+  color: #c6a0f6;
   font-weight: inherit;
   font-style: italic;
 }
 
-body a.permission_15, body .permission_15 {
-  color: #29829d;
+body a.permission_15,
+body .permission_15 {
+  color: #f5bde6;
   font-weight: inherit;
   font-style: italic;
 }
