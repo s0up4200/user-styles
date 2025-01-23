@@ -864,7 +864,7 @@ ul#twitter_update_list li a {
   top: 4px;
   width: 21px;
   height: 34.44px;
-  background: #ed8796;
+  background: #EC7485;
   -moz-border-radius: 21px 21px 0 0;
   border-radius: 21px 21px 0 0;
   -webkit-transform: rotate(-45deg);
@@ -4481,7 +4481,7 @@ a > span[class^="permission_"]:active {
 }
 
 .tor_highlight_snatch {
-  color: #ed8796 !important;
+  color: #EC7485 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -4493,7 +4493,7 @@ a > span[class^="permission_"]:active {
   color: #a6da95 !important;
 }
 .discog .tor_highlight_snatch {
-  color: #ed8796 !important;
+  color: #EC7485 !important;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
