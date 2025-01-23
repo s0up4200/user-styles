@@ -1074,9 +1074,10 @@ li.ui-state-hover {
   margin: 0;
   border: 1px solid #4f545f;
   padding: 7px 11px 7px 8px;
-  color: #bdbec0;
+  color: #cad3f5;
   background-color: #494d64;
 }
+
 #searchbars input:hover {
   border: 1px solid #5a5f6b;
   background-color: #363a4f;
