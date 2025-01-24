@@ -4872,9 +4872,3 @@ tr.group_torrent:nth-child(4n + 2) {
   font-weight: normal;
   background-color: #363a4f;
 }
-
-tr.group_torrent:nth-child(4n + 3),
-tr.group_torrent:nth-child(4n + 4) {
-  font-weight: normal;
-  /* background-color: #363a4f; */
-}
