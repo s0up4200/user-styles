@@ -2209,6 +2209,10 @@ body#artist .main-column > div:first-of-type {
   line-height: 38px;
   vertical-align: middle;
 }
+.main-column > div:nth-child(1) > div:nth-child(1) strong,
+.main-column > div:nth-child(1) > div:nth-child(1) span {
+  color: #ed8796;
+}
 body#artist [id^="role_"] > br {
   display: none;
 }
