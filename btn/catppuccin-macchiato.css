@@ -2896,7 +2896,7 @@ body div.contenth textarea:focus {
   padding: 0 0 0 20px;
 }
 .tags a {
-  color: #8b8c90;
+  color: #b8c0e0;
   -webkit-transition: none;
   -moz-transition: none;
   -o-transition: none;
@@ -4885,6 +4885,12 @@ div.center:nth-child(5) {
 }
 
 /* Top10.php */
+table.border:nth-child(5) > tbody > tr > td:nth-child(3) strong a {
+  color: #f0c6c6;
+}
 table.border:nth-child(5) > tbody > tr > td:nth-child(3) {
   color: #8aadf4;
+}
+table.border:nth-child(5) > tbody > tr > td:nth-child(3) span a {
+  color: #a6da95;
 }
