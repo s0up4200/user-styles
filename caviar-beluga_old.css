@@ -614,7 +614,7 @@ tbody .colhead_dark a:active {
 
 .rowa,
 .rowb {
-  border-bottom: 2px solid #494d64;
+  /*! border-bottom: 2px solid #494d64; */
 }
 .rowa:last-of-type,
 .rowb:last-of-type {
