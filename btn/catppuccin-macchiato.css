@@ -4901,13 +4901,14 @@ table.border:nth-child(11) > tbody > tr > td:nth-child(3) span a {
   font-weight: bolder;
 }
 
-table.border:nth-child(5) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2),
-table.border:nth-child(8) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2),
-table.border:nth-child(11) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2) {
+table.border:nth-child(5) > tbody:nth-child(1) > tr > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2),
+table.border:nth-child(8) > tbody:nth-child(1) > tr > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2),
+table.border:nth-child(11) > tbody:nth-child(1) > tr > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2) {
   color: #b7bdf8;
 }
-table.border:nth-child(5) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2):hover,
-table.border:nth-child(8) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2):hover,
-table.border:nth-child(11) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2):hover {
+
+table.border:nth-child(5) > tbody:nth-child(1) > tr > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2):hover,
+table.border:nth-child(8) > tbody:nth-child(1) > tr > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2):hover,
+table.border:nth-child(11) > tbody:nth-child(1) > tr > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2):hover {
   color: #cad3f5;
 }
