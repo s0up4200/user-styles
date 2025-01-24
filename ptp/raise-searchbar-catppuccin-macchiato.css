@@ -785,7 +785,7 @@ body#upload .thin > div[style*="width:700px"] {
   display: none;
 }
 .simple-tabs__link--active {
-  color: #b3e725;
+  color: #a6da95;
 }
 .grid {
   display: -webkit-box;
@@ -964,7 +964,7 @@ body#upload .thin > div[style*="width:700px"] {
 .poll__bar__center {
   display: block;
   height: 4px;
-  background: #b3e725;
+  background: #a6da95;
 }
 .star-rating {
   margin: 0 auto;
@@ -1154,7 +1154,7 @@ a[onclick^="ToggleTagSelector"]:hover {
   display: none;
 }
 .pagination__current-page {
-  color: #b3e725;
+  color: #a6da95;
   vertical-align: middle;
 }
 .pagination__link {
@@ -1703,7 +1703,7 @@ img[title^="High quality"] {
   color: #eed49f;
 }
 .torrent-info-link--user-downloaded {
-  color: #b3e725;
+  color: #a6da95;
 }
 .torrent-info-link--user-uploaded {
   color: #9443c7;
@@ -1743,11 +1743,11 @@ img[title^="High quality"] {
   margin: 0 4px;
 }
 .torrent_info_first_block + .linkbox a:first-of-type {
-  border-color: #b3e725;
-  color: #b3e725;
+  border-color: #a6da95;
+  color: #a6da95;
 }
 .torrent_info_first_block + .linkbox a:first-of-type:hover {
-  background: #b3e725;
+  background: #a6da95;
   color: #1a1a1a;
 }
 .torrent_info_first_block + .linkbox a:nth-of-type(2) {
@@ -1834,7 +1834,7 @@ body#torrents a[onclick^="RequestSeedingHelp"]:hover:before {
   background: rgba(0, 0, 0, 0.12);
 }
 .basic-torrent-list__movie__torrent-opener-link:hover:before {
-  color: #b3e725;
+  color: #a6da95;
 }
 .basic-torrent-list__movie__additional-info {
   margin-top: 8px;
@@ -2326,11 +2326,11 @@ body#collages .thin > .table td:last-child {
 }
 .subscribed_collages_table td span[style*="right"] a:nth-of-type(2) {
   margin-left: 4px;
-  border-color: #b3e725;
-  color: #b3e725;
+  border-color: #a6da95;
+  color: #a6da95;
 }
 .subscribed_collages_table td span[style*="right"] a:nth-of-type(2):hover {
-  background: #b3e725;
+  background: #a6da95;
   color: #1a1a1a;
 }
 .subscribed_collages_table td span[style*="right"] a:nth-of-type(3) {
