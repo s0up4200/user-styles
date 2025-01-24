@@ -785,14 +785,17 @@ body#requests #quickreplypreview {
 }
 #logo::before {
   position: absolute;
-  content: "B T N";
+  content: "broadcasthe.net";
   left: 50px;
   top: 0;
   font-size: 26px;
   font-weight: 400;
   font-family: "Lato", Helvetica, Arial, sans-serif;
-  color: white;
+  color: #cad3f5;
   text-transform: uppercase;
+}
+#logo::before:hover {
+  color: #8aadf4;
 }
 
 #userinfo {
