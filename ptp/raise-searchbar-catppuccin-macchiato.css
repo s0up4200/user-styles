@@ -1395,7 +1395,7 @@ a[class*="link--seen"]:after {
   font-size: 10px;
   font-weight: 400;
   text-transform: uppercase;
-  color: rgba(191, 235, 70, 0.925);
+  color: #8aadf4;
   letter-spacing: 0.5px;
 }
 .basic-movie-list__torrent__action {
