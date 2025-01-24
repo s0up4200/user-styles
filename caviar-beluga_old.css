@@ -734,7 +734,7 @@ body#requests #quickreplypreview {
   position: relative;
   cursor: pointer;
   padding: 6px;
-  border: 3px solid #c5f6c6;
+  border: 3px solid #a6da95;
   background: #24273a;
 }
 #logo * {
@@ -749,7 +749,7 @@ body#requests #quickreplypreview {
   top: 7px;
   content: "";
   border-radius: inherit;
-  border: 3px solid #c5f6c6;
+  border: 3px solid #a6da95;
 }
 #logo > *:only-child {
   position: absolute;
@@ -778,7 +778,7 @@ body#requests #quickreplypreview {
   position: absolute;
   width: 0;
   height: 11px;
-  border-left: 3px solid #c5f6c6;
+  border-left: 3px solid #a6da95;
   left: 22px;
   top: 9px;
   margin-left: -3px;
@@ -803,7 +803,7 @@ body#requests #quickreplypreview {
   width: 50%;
   text-align: right;
   font-size: 14px;
-  color: #c5f6c6;
+  color: #a6da95;
 }
 #userinfo ul li {
   display: inline-block;
@@ -815,7 +815,7 @@ body#requests #quickreplypreview {
 
 #userinfo_stats {
   display: inline-block;
-  color: #c5f6c6;
+  color: #a6da95;
   font-weight: 400;
   margin-top: 7px;
 }
@@ -1358,7 +1358,7 @@ body#index .home .month_rating {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-size: 4em;
   font-weight: 300;
-  color: #c5f6c6;
+  color: #a6da95;
   position: relative;
   top: -6px;
   margin-left: 10px;
@@ -2221,7 +2221,7 @@ div.user_details {
 }
 
 .forum_unread {
-  border-top: 4px solid #c5f6c6;
+  border-top: 4px solid #a6da95;
 }
 
 body#userhistory .forum_post .colhead_dark span[style="color: red;"] {
@@ -4812,7 +4812,7 @@ body#torrents
   table.box[style="font-size: 7pt; margin-top: 5px; width: 170px"]
   #star
   li {
-  background-color: #c5f6c6;
+  background-color: #a6da95;
 }
 body#torrents
   table.box[style="font-size: 7pt; margin-top: 5px; width: 170px"]
