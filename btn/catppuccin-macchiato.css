@@ -417,7 +417,7 @@ ul.thin li {
   clear: both;
 }
 #footer > p:first-of-type::after {
-  content: " - Stylesheet: Beluga Caviar v1.6";
+  content: " - Stylesheet: Catppuccin Macchiato v1.0 (Based on Beluga Caviar)";
   font-weight: 900;
 }
 #footer a {
@@ -4866,6 +4866,20 @@ tr.rowb:nth-child(even) {
   background-color: #363a4f;
 } */
 
+/* Hide bloat on series.php */
 .thin > center:nth-child(1) {
+  display: none;
+}
+div.center:nth-child(6) {
+  display: none;
+}
+div.box:nth-child(13) {
+  display: none;
+}
+.main_column > div:nth-child(5) {
+  display: none;
+}
+
+div.center:nth-child(5) {
   display: none;
 }
