@@ -739,7 +739,7 @@ body#upload .thin > div[style*="width:700px"] {
   font-size: 14px;
 }
 .tabs__bar {
-  background: #2b2b2b;
+  background: #1e2030;
   margin-bottom: 2px;
 }
 .tabs__bar__list {
@@ -2748,7 +2748,7 @@ body#staff .thin > div:nth-of-type(2) h3 {
   align-items: center;
   list-style: none;
   padding: 6px 3px;
-  background: #2b2b2b;
+  background: #1e2030;
 }
 .search-bar__search-field {
   -webkit-box-flex: 1;
@@ -2943,7 +2943,7 @@ body#staff .thin > div:nth-of-type(2) h3 {
   padding: 8px 12px;
   text-align: center;
   font-weight: 400;
-  background: #2b2b2b;
+  background: #1e2030;
 }
 .alert-bar a {
   color: #fff;
