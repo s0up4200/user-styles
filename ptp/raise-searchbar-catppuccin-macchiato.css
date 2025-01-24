@@ -1694,36 +1694,36 @@ img[title^="High quality"] {
   margin-left: 4px;
 }
 .torrent-info-link--user-snatched {
-  color: #58f3f3;
+  color: #8aadf4; /* Blue */
 }
 .torrent-info-link--user-leeching {
-  color: #f7706f;
+  color: #ed8796; /* Red */
 }
 .torrent-info-link--user-seeding {
-  color: #eed49f;
+  color: #eed49f; /* Yellow */
 }
 .torrent-info-link--user-downloaded {
-  color: #a6da95;
+  color: #a6da95; /* Green */
 }
 .torrent-info-link--user-uploaded {
-  color: #9443c7;
+  color: #c6a0f6; /* Mauve */
 }
 .torrent-info__trumpable {
-  color: #ff9237;
+  color: #f5a97f; /* Peach */
   font-weight: 400;
 }
 .torrent-info__reported {
-  color: #f7706f;
+  color: #ed8796; /* Red */
   font-weight: 400;
 }
 .torrent-info__download-modifier {
   font-weight: 400;
 }
 .torrent-info__download-modifier--free {
-  color: #a6da95;
+  color: #a6da95; /* Green */
 }
 .torrent-info__download-modifier--half {
-  color: #eed49f;
+  color: #eed49f; /* Yellow */
 }
 .torrent_info_row {
   background: rgba(0, 0, 0, 0.12);
