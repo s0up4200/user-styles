@@ -4908,3 +4908,9 @@ table.border > tbody > tr > td:nth-child(3) > strong > a {
 table.border > tbody > tr > td:nth-child(3) > strong > a:hover {
   color: #cad3f5;
 }
+
+/* Keep episode titles in green */
+table.border > tbody > tr > td:nth-child(3) span a {
+  color: #a6da95;
+  font-weight: bolder;
+}
