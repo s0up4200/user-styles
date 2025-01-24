@@ -3981,8 +3981,8 @@ img[title="Read"] {
   height: 35px;
   padding-left: 47px;
   width: 0;
-  -webkit-filter: contrast(82%) brightness(106%) saturate(26%) hue-rotate(220deg) blur(2px);
-  filter: contrast(82%) brightness(106%) saturate(26%) hue-rotate(220deg) blur(2px);
+  -webkit-filter: contrast(82%) brightness(106%) saturate(14%) hue-rotate(220deg) blur(2px);
+  filter: contrast(82%) brightness(106%) saturate(14%) hue-rotate(220deg) blur(2px);
 }
 
 img[src$="/common/icons/page_copy.png"] {
