@@ -4886,15 +4886,12 @@ div.center:nth-child(5) {
 
 /* Top10.php */
 table.border:nth-child(5) > tbody > tr > td:nth-child(3) strong a {
-  color: #f0c6c6;
+  /*color: #f0c6c6;*/
 }
-table.border:nth-child(5) > tbody > tr > td:nth-child(3) > span {
-  font-weight: bolder;
-}
-
 table.border:nth-child(5) > tbody > tr > td:nth-child(3) {
   color: #8aadf4;
 }
 table.border:nth-child(5) > tbody > tr > td:nth-child(3) span a {
   color: #a6da95;
+  font-weight: bolder;
 }
