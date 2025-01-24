@@ -4883,3 +4883,8 @@ div.box:nth-child(13) {
 div.center:nth-child(5) {
   display: none;
 }
+
+/* Top10.php */
+table.border:nth-child(5) > tbody > tr > td:nth-child(3) {
+  color: #8aadf4;
+}
