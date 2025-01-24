@@ -3023,3 +3023,23 @@ body#staff .thin > div:nth-of-type(2) h3 {
 [id^="content"] > div > span > span {
   color: #cad3f5;
 }
+
+.ytp-error {
+  display: none;
+}
+
+/* custom youtube error message */
+.ytp-error::after {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  content: "Video unavailable";
+  color: #cad3f5;
+  background-color: #363a4f;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
