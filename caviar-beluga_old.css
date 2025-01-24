@@ -4867,7 +4867,7 @@ tr.rowb:nth-child(even) {
   background-color: #363a4f;
 } */
 
-.torrent_table > tbody > tr:nth-child(even) {
+.torrent_table > tbody > tr:nth-child(odd) {
   background-color: #363a4f;
 }
 
