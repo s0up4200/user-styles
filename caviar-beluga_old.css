@@ -4865,3 +4865,7 @@ body#snatchlist #SnatchData > table:nth-child(3) td:only-child {
 tr.rowb:nth-child(even) {
   background-color: #363a4f;
 }
+
+.thin > table > tbody > tr:nth-child(even) {
+  background-color: #363a4f;
+}
