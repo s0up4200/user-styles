@@ -4857,3 +4857,7 @@ body#snatchlist #SnatchData > table:nth-child(3) td:only-child {
   font-size: 12px;
   background-color: #363a4f;
 }
+
+[id^="post"] > tbody > tr:nth-child(2) {
+  background-color: #363a4f;
+}
