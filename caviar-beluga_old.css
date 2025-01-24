@@ -3969,10 +3969,9 @@ img[title="Unread"] {
   height: 35px;
   padding-left: 47px;
   width: 0;
-  -webkit-filter: hue-rotate(105deg) saturate(48%) brightness(85%);
-  -moz-filter: hue-rotate(105deg) saturate(48%) brightness(85%);
-  -o-filter: hue-rotate(105deg) saturate(48%) brightness(85%);
-  filter: hue-rotate(105deg) saturate(48%) brightness(85%);
+  -webkit-filter: contrast(82%) brightness(200%) saturate(48%) sepia(25%) invert(83%) hue-rotate(160deg);
+  filter: contrast(82%) brightness(200%) saturate(48%) sepia(25%) invert(83%) hue-rotate(160deg);
+
 }
 
 img[title="Read"] {
