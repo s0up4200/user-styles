@@ -4921,3 +4921,19 @@ table.border:nth-child(17) > tbody:nth-child(1) > tr > td:nth-child(3) > strong:
 table.border:nth-child(20) > tbody:nth-child(1) > tr > td:nth-child(3) > strong:nth-child(2) > a:nth-child(2):hover {
   color: #cad3f5;
 }
+
+
+/* Element | https://broadcasthe.net/index.php */
+
+.stat {
+  color: #cad3f5;
+}
+#userinfo_stats > li:nth-child(2) > a:nth-child(1) {
+  color: #cad3f5;
+}
+#userinfo_stats > li:nth-child(3) > a:nth-child(1) {
+  color: #cad3f5;
+}
+#toplumens {
+  color: #cad3f5;
+}
