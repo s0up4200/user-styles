@@ -1186,9 +1186,8 @@ ul.collage_images li a > span {
     display: flex;
     top: 0;
     left: 0;
-    bottom: 0;
     right: 0;
-    margin: auto;
+    bottom: 0;
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
     -ms-flex-pack: center;
@@ -1200,7 +1199,11 @@ ul.collage_images li a > span {
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    user-select: none
+    user-select: none;
+    /* Removed margin:auto and added min-size */
+    margin: 0;
+    min-width: 100vw;
+    min-height: 100vh;
 }
 
 .lightbox.hidden {
