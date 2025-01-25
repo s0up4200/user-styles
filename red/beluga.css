@@ -887,15 +887,6 @@ table.box, table.box2 {
     background-color: #363a4f
 }
 
-.torrent_table .group {
-    background-color: #5b6078
-}
-
-.group_torrent {
-    background-color: #363a4f
-}
-
-.group_torrent.edition, .torrent {
 .torrent_table tr:not(.colhead):not(.colhead_dark) {
     border-top: 2px solid #29262d
 }
@@ -1408,15 +1399,15 @@ ul.collage_images li a > span {
     border: 2px solid #29262d
 }
 
-span[style*="color: green"] {
+span[style * ='color: green'] {
     color: #54ba54 !important
 }
 
-span[style*="color: red"] {
+span[style * ='color: red'] {
     color: #ed5454 !important
 }
 
-span[style*="color: blue"] {
+span[style * ='color: blue'] {
     color: #5454ed !important
 }
 
@@ -1492,4 +1483,3 @@ blockquote {
     background: #29262d
 }
 
-}
