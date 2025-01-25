@@ -632,13 +632,34 @@ table.box, table.box2 {
     background-color: #363a4f
 }
 
-#menu li:nth-child(2),
-#menu li:nth-child(3),
-#menu li:nth-child(4),
-#menu li:nth-child(5),
-#menu li:nth-child(6),
-#menu li:nth-child(7),
-#menu li:nth-child(8),
+#menu li:nth-child(2) {
+    background-color: #363a4f
+}
+
+#menu li:nth-child(3) {
+    background-color: #363a4f
+}
+
+#menu li:nth-child(4) {
+    background-color: #363a4f
+}
+
+#menu li:nth-child(5) {
+    background-color: #363a4f
+}
+
+#menu li:nth-child(6) {
+    background-color: #363a4f
+}
+
+#menu li:nth-child(7) {
+    background-color: #363a4f
+}
+
+#menu li:nth-child(8) {
+    background-color: #363a4f
+}
+
 #menu li:nth-child(9) {
     background-color: #363a4f
 }
