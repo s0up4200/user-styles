@@ -1,5 +1,3 @@
-/* Based on https://cdn.rawgit.com/AnubisRed/RED-SS/master/Beluga%20Edit.css */
-
 a:active, a:focus, button:active, button:focus, input:active, input:focus,
 select:active, select:focus, textarea:active, textarea:focus {
     outline: 0
@@ -410,7 +408,7 @@ table.box, table.box2 {
     margin-top: 24px
 }
 
-.forum_index td[style*="width: 2%"], .forum_list td[style*="width: 2%"] {
+.forum_index td[style * ='width: 2%'], .forum_list td[style * ='width: 2%'] {
     width: 24px !important
 }
 
@@ -817,8 +815,7 @@ table.box, table.box2 {
     margin-right: 0
 }
 
-.box_artists .brackets::after, .box_artists .brackets::before,
-.box_tags .edit_tags_votes .brackets::after,
+.box_artists .brackets::after, .box_artists .brackets::before, .box_tags .edit_tags_votes .brackets::after,
 .box_tags .edit_tags_votes .brackets::before {
     content: '';
     display: none
@@ -832,11 +829,10 @@ table.box, table.box2 {
     flex-flow: row wrap
 }
 
-.box_addartists input[type=text], .box_addartists select,
-.box_addartists_similar input[type=text], .box_addartists_similar select,
-.box_addtag input[type=text], .box_addtag select,
-.box_search input[type=text], .box_search select,
-.box_zipdownload input[type=text], .box_zipdownload select {
+.box_addartists input[type=text], .box_addartists select, .box_addartists_similar input[type=text],
+.box_addartists_similar select, .box_addtag input[type=text], .box_addtag select,
+.box_search input[type=text], .box_search select, .box_zipdownload input[type=text],
+.box_zipdownload select {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
     margin-right: 8px;
@@ -889,14 +885,6 @@ table.box, table.box2 {
 
 .torrent_table {
     background-color: #363a4f
-}
-
-.torrent_table tr:not(.colhead):not(.colhead_dark) {
-    border-top: 2px solid #363a4f
-}
-
-.torrent_table tr .number_column:not(:last-child) {
-    padding-right: 6px
 }
 
 .torrent_table .group {
@@ -1015,8 +1003,8 @@ table.box, table.box2 {
     font-size: 16px
 }
 
-.forum_index td[style*="width: 2%"], .forum_list td[style*="width: 2%"] {
-    width: 24px !important
+.colhead td[width * ='70%'], .colhead_dark td[width * ='70%'] {
+    width: 100%
 }
 
 .colhead .cats_col, .colhead_dark .cats_col {
@@ -1230,8 +1218,8 @@ ul.collage_images li a > span {
 
 .lightbox img {
     display: block;
-    max-width: 72%;
-    max-height: 72%;
+    max-width: 92%;
+    max-height: 92%;
     box-shadow: 0 0 32px 6px rgba(0, 0, 0, .32)
 }
 
@@ -1396,7 +1384,7 @@ ul.collage_images li a > span {
 }
 
 #collages.collage_table .colhead td:last-child, #personal_collages .colhead td:last-child,
-.filelist_table .colhead_dark td:last-child, .forum_index .colhead td[style*="width: 7%"] {
+.filelist_table .colhead_dark td:last-child, .forum_index .colhead td[style * ='width: 7%'] {
     text-align: right
 }
 
