@@ -1200,10 +1200,8 @@ ul.collage_images li a > span {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    /* Removed margin:auto and added min-size */
-    margin: 0;
-    min-width: 100vw;
-    min-height: 100vh;
+    width: 100%;
+    height: 100%;
 }
 
 .lightbox.hidden {
