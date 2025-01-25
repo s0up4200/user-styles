@@ -1210,8 +1210,8 @@ ul.collage_images li a > span {
 
 .lightbox img {
     display: block;
-    max-width: 92%;
-    max-height: 92%;
+    max-width: 72%;
+    max-height: 72%;
     box-shadow: 0 0 32px 6px rgba(0, 0, 0, .32)
 }
 
